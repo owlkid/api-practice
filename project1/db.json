@@ -1,0 +1,41 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "postman",
+      "description": "full postman course",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "title": "selenium",
+      "description": "full selenium course",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "title": "cypress",
+      "description": "full cypress course",
+      "price": 300
+    },
+    {
+      "id": "4",
+      "title": "python",
+      "description": "full python course",
+      "price": 1000
+    },
+    {
+      "title": "java",
+      "description": "full java course",
+      "price": 500,
+      "id": "W8_j9OX"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@mail.com",
+      "password": "$2a$10$GRtgzeQmFPFV3cEVyEz6T.X/kjxR24FOfU8/HD5CDfrw53aqFNrLO",
+      "id": 1
+    }
+  ]
+}
