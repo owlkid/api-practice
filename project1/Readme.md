@@ -1,6 +1,6 @@
 🧪 API Testing with JSON Server & JWT Authentication
     
-    A comprehensive end-to-end API testing suite demonstrating CRUD operations with JWT authentication using JSON Server and Postman.
+A comprehensive end-to-end API testing suite demonstrating CRUD operations with JWT authentication using JSON Server and Postman.
 
 📋 Project Overview
     
